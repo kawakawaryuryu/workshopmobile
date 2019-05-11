@@ -1,6 +1,6 @@
-package jp.co.biglobe.workshopmobile.domain.plan;
+package jp.co.biglobe.workshopmobile.domain.value.plan;
 
-import jp.co.biglobe.workshopmobile.domain.fee.MonthlyFee;
+import jp.co.biglobe.workshopmobile.domain.value.fee.MonthlyFee;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 

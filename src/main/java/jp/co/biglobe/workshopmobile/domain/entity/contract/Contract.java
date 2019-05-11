@@ -1,9 +1,9 @@
-package jp.co.biglobe.workshopmobile.domain.contract;
+package jp.co.biglobe.workshopmobile.domain.entity.contract;
 
-import jp.co.biglobe.workshopmobile.domain.EntameFreeOption;
-import jp.co.biglobe.workshopmobile.domain.enable.Enabled;
-import jp.co.biglobe.workshopmobile.domain.fee.MonthlyFee;
-import jp.co.biglobe.workshopmobile.domain.plan.Plan;
+import jp.co.biglobe.workshopmobile.domain.value.entame.EntameFreeOption;
+import jp.co.biglobe.workshopmobile.domain.value.enable.Enabled;
+import jp.co.biglobe.workshopmobile.domain.value.fee.MonthlyFee;
+import jp.co.biglobe.workshopmobile.domain.value.plan.Plan;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 

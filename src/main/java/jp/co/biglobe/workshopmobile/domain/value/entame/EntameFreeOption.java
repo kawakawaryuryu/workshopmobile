@@ -1,6 +1,6 @@
-package jp.co.biglobe.workshopmobile.domain;
+package jp.co.biglobe.workshopmobile.domain.value.entame;
 
-import jp.co.biglobe.workshopmobile.domain.fee.MonthlyFee;
+import jp.co.biglobe.workshopmobile.domain.value.fee.MonthlyFee;
 import lombok.Getter;
 
 public enum EntameFreeOption {

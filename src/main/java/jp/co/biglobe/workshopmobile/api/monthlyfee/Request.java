@@ -1,8 +1,7 @@
 package jp.co.biglobe.workshopmobile.api.monthlyfee;
 
-import jp.co.biglobe.workshopmobile.domain.EntameFreeOption;
-import jp.co.biglobe.workshopmobile.domain.fee.MonthlyFee;
-import jp.co.biglobe.workshopmobile.domain.plan.Plan;
+import jp.co.biglobe.workshopmobile.domain.value.entame.EntameFreeOption;
+import jp.co.biglobe.workshopmobile.domain.value.plan.Plan;
 import lombok.Getter;
 import lombok.Setter;
 

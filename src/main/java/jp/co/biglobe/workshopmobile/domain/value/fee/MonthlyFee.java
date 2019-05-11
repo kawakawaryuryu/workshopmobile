@@ -1,4 +1,4 @@
-package jp.co.biglobe.workshopmobile.domain.fee;
+package jp.co.biglobe.workshopmobile.domain.value.fee;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
