@@ -26,6 +26,6 @@ public class Contract {
     }
 
     public MonthlyFee getSumFee() {
-        return new MonthlyFee(plan.getMonthlyFee().getValue() + entameFreeOption.getValue().getValue());
+        return plan.getMonthlyFee().plus(entameFreeOption.getValue());
     }
 }
