@@ -9,7 +9,10 @@ import lombok.Getter;
  */
 @AllArgsConstructor
 public enum Plan {
-    _1ギガ(new MonthlyFee(1000));
+    ONE_GB(new MonthlyFee(1000)),
+    THREE_GB(new MonthlyFee(2000)),
+    THIRTY_GB(new MonthlyFee(6000))
+    ;
 
     @Getter
     private final MonthlyFee monthlyFee;
